@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Alignment",
+		"Auto Close HTML Tags",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSS Format",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"HTML5",
+		"HTMLBeautify",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"JsFormat",
+		"Nodejs",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter"
+	]
+}
